@@ -1,10 +1,10 @@
-## Seja bem vindo, meu nome é João Victor
+## Seja bem-vindo, meu nome é João Victor
 
 </br>
-<div >
+<div>
   <a href="https://github.com/JoaoFydev">
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-S-E8&&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel-S-E8&layout=donut&langs_count=7&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoFydev&&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoFydev&layout=donut&langs_count=7&theme=midnight-purple"/>
   </a>
 </div>  
 
@@ -18,15 +18,14 @@
   <img align="right" alt="Ippo" height="120" width="120" src="Assets/hajime-no-ippo-ippo.gif">
 </div>
 
-  ##
-  
+##
+
 <div>
   <a href="https://www.twitch.tv/droopboom" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZZPzRWvnXgXxllfDsPJzPKfFMlmXtxfScxllLxzTrhGHMtqZXslJwPXMcTGzKwGjpKMnV"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-da-silva-aa47a7221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/+5516993031378"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/+5516993031378"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- All the social midias icons used in this profile can be found here!! https://dev.to/envoy_/150-badges-for-github-pnk --!>
-<!-- All the icons of programming language used in this profile can be found here!! https://devicon.dev --!>
-
+<!-- All the social media icons used in this profile can be found here!! https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- All the icons of programming languages used in this profile can be found here!! https://devicon.dev -->
