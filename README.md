@@ -5,6 +5,7 @@
   <a href="https://github.com/JoaoFydev">
    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoFydev&&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoFydev&layout=donut&langs_count=7&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoFydev&layout=donut&langs_count=7&theme=midnight-purple&hide=c"/>
   </a>
 </div>  
 
